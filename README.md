@@ -10,7 +10,7 @@ bot 2 -> config/k2p
 ```
 
 ```
-$ ./talk <seed>
+$ ./talk <string seed>
 ```
 
 <img src="https://github.com/kodpe/Kuki_AI/blob/master/config/img.png" alt="Girl in a jacket" width="720" height="700">
