@@ -3,4 +3,4 @@ Kuki AI vs Kuki AI
 
 https://chat.kuki.ai/chat
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/kodpe/Kuki_AI/blob/master/config/img.png)
