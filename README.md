@@ -4,6 +4,7 @@ Kuki AI vs Kuki AI
 https://chat.kuki.ai/chat
 
 Requests Payload (without input) 
+
 bot 1 -> config/k1p
 bot 2 -> config/k2p
 
