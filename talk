@@ -210,8 +210,8 @@ stt=">"
 K1_NAME=$(getname)
 K2_NAME=$(getname)
 
-P1=$(cat k1p)
-P2=$(cat k2p)
+P1=$(cat ./config/k1p)
+P2=$(cat ./config/k2p)
 FILENAME="conv-$(date +'%m-%d-%Y')-$(date +%H-%M-%S)-$(date +%s)"
 SAVE="./conversations/$FILENAME"
 K1_IN="$1"
